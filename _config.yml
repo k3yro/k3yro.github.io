@@ -21,7 +21,7 @@
 title: K3 Projekte
 email: zeilenfang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Willkommen auf der K3 Projektseite. Diese Seite dient zur besseren Übersicht meiner GitHub Projekte.
+  Willkommen auf der K3 Projektseite. Diese Seite dient zur besseren Übersicht meiner GitHub Projekte und befindet sich noch im Aufbau.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
