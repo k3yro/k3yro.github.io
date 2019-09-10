@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: Über mich
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ich bin ein Fullstack Entwickler aus Leipzig. Bei Fragen könnt ihr mich über meine Email-Adresse erreichen:
+zeilenfang@gmail.com
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Der Quellcode zu allen gelisteten Projekten befindet sich auf meiner GitHub Seite:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[https://github.com/k3yro](https://github.com/k3yro)
