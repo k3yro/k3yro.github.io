@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Ich bin ein Fullstack Entwickler aus Leipzig. Bei Fragen könnt ihr mich über meine Email-Adresse erreichen:
+
 [zeilenfang@gmail.com](zeilenfang@gmail.com)
 
 Der Quellcode zu allen gelisteten Projekten befindet sich auf meiner GitHub Seite:
