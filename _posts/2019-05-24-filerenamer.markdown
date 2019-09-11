@@ -6,7 +6,7 @@ categories: C#
 ---
 Das Programm ändert eine große Anzahl von Dateien in einem Ordner. Zum Suchen und Ersetzen kann Regex verwendet werden. [Link zum Repository](https://github.com/k3yro/Tools/tree/master/FileRenamer "FileRenamer Repo")
 
-![Alt text](https://github.com/k3yro/Tools/tree/master/FileRenamer/Screenshot.PNG?raw=true "Screenshot")
+![Alt text](https://raw.githubusercontent.com/k3yro/Tools/master/FileRenamer/Screenshot.PNG "Screenshot")
 
 [Download (v1.0)](https://github.com/k3yro/Tools/releases/download/v1.0/Setup.exe "Download")
 ## Requirements
