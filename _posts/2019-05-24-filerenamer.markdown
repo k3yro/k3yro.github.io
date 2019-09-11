@@ -22,12 +22,12 @@ Das Programm ändert eine große Anzahl von Dateien in einem Ordner. Zum Suchen 
 
 <div class="datatable-begin"></div>
 
-Food    | Description                           | Category | Sample type
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
+Syntax  | Beschreibung                          
+------- | ------------------------------------- 
+^       | Beginn des Dateinamens                
+$       | Ende des Dateinamens                  
+\s      | Findet Leerzeichen      
+[A-z]   | Findet Zeichen A-z
 
 <div class="datatable-end"></div>
 
