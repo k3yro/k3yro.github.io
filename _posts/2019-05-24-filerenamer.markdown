@@ -3,6 +3,7 @@ layout: post
 title:  "C# WPF FileRenamer"
 date:   2019-05-24 17:18:06 +0200
 categories: C#
+datatable: true
 ---
 Das Programm ändert eine große Anzahl von Dateien in einem Ordner. Zum Suchen und Ersetzen kann Regex verwendet werden. [Link zum Repository](https://github.com/k3yro/Tools/tree/master/FileRenamer "FileRenamer Repo")
 
@@ -12,14 +13,8 @@ Das Programm ändert eine große Anzahl von Dateien in einem Ordner. Zum Suchen 
 ## Voraussetzungen
 - [.Net Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472 "Microsofts's Homepage") (oder höher)
 - Ordner voller Dateien
-## Regex Syntax
-| Syntax | Beschreibung |
-|-------|--------|
-| ^ | Beginn des Dateinamens |
-| $ | Ende des Dateinamens |
-| \s | Findet Leerzeichen |
-| [A-z] | Findet Zeichen A-z |
 
+## Regex Syntax
 <div class="datatable-begin"></div>
 
 Syntax  | Beschreibung                          
@@ -30,7 +25,5 @@ $       | Ende des Dateinamens
 [A-z]   | Findet Zeichen A-z
 
 <div class="datatable-end"></div>
-
-
 
 [Download Regex Beschreibung im (.pdf) Format](https://download.microsoft.com/download/D/2/4/D240EBF6-A9BA-4E4F-A63F-AEB6DA0B921C/Regular%20expressions%20quick%20reference.pdf "Microsofts's Homepage")
